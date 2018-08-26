@@ -1,2 +1,2 @@
 # ShowCoordinate
-Simple Plugin for Enabling ShowCoordinates Rules for PocketMine
+Simple Plugin to Enabling ShowCoordinates Rules for PocketMine
